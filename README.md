@@ -1,6 +1,6 @@
 # Harry Potter Karakterleri - Flutter Test Uygulaması
 
-Bu proje, Daynex Yazılım için hazırlanmış bir teknik değerlendirme çalışmasıdır. Uygulama, Harry Potter evrenindeki karakterleri listeleyen, detay sayfasına geçiş sağlayan ve hata yönetimi içeren bir mobil uygulamadır.
+ Uygulama, Harry Potter evrenindeki karakterleri listeleyen, detay sayfasına geçiş sağlayan ve hata yönetimi içeren bir mobil uygulamadır.
 
 ## 📱 Ekran Görüntüleri
 
