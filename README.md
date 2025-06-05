@@ -5,10 +5,10 @@ Bu proje, Daynex Yazılım için hazırlanmış bir teknik değerlendirme çalı
 ## 📱 Ekran Görüntüleri
 
 > Ekran görüntüsü eklemek istersen:
-> ```
-> ![Ekran 1](screenshots/list_screen.png)
-> ![Ekran 2](screenshots/detail_screen.png)
-> ```
+> 
+![Ekran görüntüsü 2025-06-05 220936](https://github.com/user-attachments/assets/bfb8a318-3907-4501-ac07-b8f53d5d2a62)
+![Ekran görüntüsü 2025-06-05 215622](https://github.com/user-attachments/assets/07cc00ab-c182-4f7d-9fd2-e6b12529de01)
+![Ekran görüntüsü 2025-06-05 220920](https://github.com/user-attachments/assets/ac1f158d-80d1-43e7-aa37-6f13975478a9)
 
 ## 🚀 Özellikler
 
